@@ -104,5 +104,5 @@ function smoothScroll(target, duration) {
     
   }
   document.getElementById("openPdfButton").addEventListener("click", function () {
-    window.open("ABISHEK S CSE KSRCE.pdf", "_blank");
+    window.open("ABISHEK S RESUME.pdf", "_blank");
   });
